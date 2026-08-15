@@ -1,0 +1,2 @@
+Conteúdo para praticar boas mensagens de commit
+
