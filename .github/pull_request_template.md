@@ -15,10 +15,4 @@ Descreva brevemente o que este Pull Request faz.
 - [] Documentação Atualizada
 - [] Revisão
 
-### Como adicionar um arquivo à pasta
-
-```powershell
-git add nome-do-arquivo
-```
-
 
