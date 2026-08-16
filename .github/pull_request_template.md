@@ -14,4 +14,9 @@ Descreva brevemente o que essa pull fsz.
 - [] Documentação Atualizada
 - [] Revisão
 
+### como adicionar arquivo na minha pasta 
+
+--- Bash
+ls
+---
 
