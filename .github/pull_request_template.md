@@ -1,6 +1,7 @@
 ### Descrisção
 
-Descreva brevemente o que essa pull fsz.
+Descreva brevemente o que este Pull Request faz.
+
 
 ### Tipo de mudança 
 
@@ -14,9 +15,10 @@ Descreva brevemente o que essa pull fsz.
 - [] Documentação Atualizada
 - [] Revisão
 
-### como adicionar arquivo na minha pasta 
+### Como adicionar um arquivo à pasta
 
---- Bash
-ls
----
+```powershell
+git add nome-do-arquivo
+```
+
 
