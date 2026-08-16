@@ -17,6 +17,18 @@ jobs:
         with:
           node-version: "24"
 
-      - name: Executar index.js
-        run: node index.js
-        
+      - name: Executar testes
+        run: npm test
+
+      - name: Verificar variável secreta
+        env:
+          MINHA_CHAVE: ${{ secrets.MINHA_CHAVE }}
+        run: |
+          if [ -n "$MINHA_CHAVE" ]; then
+            echo "Variável secreta configurada corretamente"
+          else
+            echo "Variável secreta não encontrada"
+            exit 1
+          fi
+          
+
