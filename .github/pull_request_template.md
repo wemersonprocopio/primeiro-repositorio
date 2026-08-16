@@ -1,18 +1,15 @@
-### Descrisção
+### Descrição
 
 Descreva brevemente o que este Pull Request faz.
 
+### Tipo de mudança
 
-### Tipo de mudança 
+- [ ] Bug Fix
+- [ ] Nova Feature
+- [ ] Melhorias na documentação
 
-- [] Bug Fix
-- [] Nova Feature
-- [] Melhorias na Documentação.
+### Checklist
 
-### Checkllist
-
-- [] Testes Adicionados
-- [] Documentação Atualizada
-- [] Revisão
-
-
+- [ ] Testes adicionados
+- [ ] Documentação atualizada
+- [ ] Revisão
