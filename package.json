@@ -1,0 +1,21 @@
+{
+  "name": "primeiro-repositorio",
+  "version": "1.0.0",
+  "description": "Este é o meu primeiro projeto utilizando Git.",
+  "main": "index.js",
+"scripts": {
+  "test": "node index.js"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wemersonprocopio/primeiro-repositorio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/wemersonprocopio/primeiro-repositorio/issues"
+  },
+  "homepage": "https://github.com/wemersonprocopio/primeiro-repositorio#readme"
+}
